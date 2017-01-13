@@ -67,14 +67,18 @@ The first design was different then my inspiration in the way that I made the wh
 I ended up with two designs:
 
 Design 1
+
 ! [Logo Design 1] (https://i.gyazo.com/71bce36e48b27340fa0f1d5134f78fb5.png)
 
 Design 2 
+
 ! [Logo Design 2] (https://i.gyazo.com/71bce36e48b27340fa0f1d5134f78fb5.png)
 
 ## Navagation bar 
 For the navagation throughout the site, i created two diagrams. The first was created to provide myself a references to the movement through the site, showing that every page was linked. 
+
 ! [NavBar Flowchart] (https://i.gyazo.com/905c192a540b7d127bd7ad20318e3cab.png)
 
 The second diagram that i created was the same as the first but included the links outside of the site. On the CV page, i included a link to my github account to proivde viewer a way to access my previous pieces of work as well as my new projects. The other links for in the Conact page, which would take the viewer to my various social media accounts to provide a way for them to contact me as well as the option to email about their enquries.
+
 ![Website Navagtion Flowchart] (https://i.gyazo.com/905c192a540b7d127bd7ad20318e3cab.png)
