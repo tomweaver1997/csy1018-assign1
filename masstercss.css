@@ -1,0 +1,81 @@
+
+/*Header*/
+/* navigation */
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#nav li a {
+    float: right;
+    border-right: 1px solid #6E6D6D;
+}
+
+
+#nav li a:last-child {
+    border-right: none;
+}
+
+#nav li a {
+    display: block;;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav a:hover:not(.active) {
+    background-color: #6E6D6D;
+}
+
+#nav .active {
+background-color: #C61313;
+}
+
+/*Background Image*/
+/*https://unsplash.com/search/photos/computer?photo=Hon8H9dvTBM. (access on: 11/12/2016)*/
+body {
+  background-image: url(../../htdocs/img/backround-min.jpg);
+  max-width: 100%;
+  height: auto;
+  }
+
+
+/*Creates the footer*/
+body {
+  padding-bottom: 150px;
+}
+
+/*Footer*/
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#footer ul a {
+  float: left;
+}
+
+#footer ul img{
+  width: 150px;
+  height: 100px;
+}
+
+/*Change the icon size of the footer and header when changing page size*/
+@media (max-width:700px) {
+header p{
+  display: none;
+}
+header a{
+  font-size: 3.2em;
+}
+}
