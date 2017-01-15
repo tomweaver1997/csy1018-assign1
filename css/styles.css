@@ -2,12 +2,20 @@ body {margin:0;}
 /* webpage styles*/
 
 p{ line-height: 1em; }
-h1, h2, {
+h1 {
     color: white;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
 }
+
+h2 {
+    color: white;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+
 h1{ font-size: 2em; }
 h2{ font-size: 1.4em; }
 a{
@@ -24,6 +32,7 @@ main{
   align-items: center;
   flex-direction: column;
   min-height: 100%;
+  margin-top: 3em
 }
 
 /*Welcome Message*/
@@ -51,14 +60,13 @@ main li {
 
 /*Profile Pitcure*/
 main img{
-float: right;
 justify-content: flex-start;
 align-items: center;
 flex direction: right;
 }
 
 main img{
-  width: 25em;
+  width: 90%;
   height:70%;
   border-radius: 10px;
   box-shadow: 10px 10px 5px black;
