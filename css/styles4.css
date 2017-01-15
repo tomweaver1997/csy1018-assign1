@@ -1,0 +1,163 @@
+body {margin:0;}
+/* webpage style*/
+
+p{ line-height: 1em; }
+h1 {
+    color: white;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+
+h2 {
+    color: white;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+h1{ font-size: 2em; }
+h2{ font-size: 1.4em; }
+a{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+main h1 {
+  font-family: 'PT Mono', monospace;
+}
+/*Content*/
+.page-title  h1 {
+color: white;
+justify-content: center;
+border-radius: 10px;
+align-items: center;
+display: flex;
+text-align: center;
+padding-top: 1.5em;
+padding-bottom: 1em;
+margin-top: 1.5em;
+font-size: 3em;
+background-color: #333;
+box-shadow: 10px 10px 5px black;
+}
+
+/*Social Media links*/
+.facebook ul{
+  list-style: none;
+  padding: 30px;
+  list-style-type: none;
+  margin-left: 25%;
+  margin-right:  25%;
+  text-align: center;
+}
+
+
+.twitter ul{
+  list-style: none;
+  padding: 30px;
+  list-style-type: none;
+  margin-left: 25%;
+  margin-right:  25%;
+  text-align: center;
+}
+
+
+.instagram ul{
+  list-style: none;
+  padding: 30px;
+  list-style-type: none;
+  margin-left: 25%;
+  margin-right:  25%;
+  text-align: center;
+}
+
+/*Email Form*/
+/*Tome Rose (2016) Html Form Example.Avaliable from: http://codepen.io/UoN-ThomasRose/pen/NbYrGj Accessed by (4/1/17) */
+.form h1 {
+  font-size: 1.5em
+}
+.form ul{
+    list-style: none;
+    margin-right: %;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+  color: white;
+  justify-content: center;
+  border-radius: 10px;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+  font-size: 2em;
+  background-color: #333;
+  box-shadow: 10px 10px 5px black;
+  }
+
+}
+
+.form {
+  border-radius: 10px;
+  padding: 1em;
+  width: 40%;
+  min-width: 15em;
+  max-width: 26.5em;
+}
+
+.form-title {
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+
+}
+
+.form-info label{
+font-family: 'PT Mono', monospace;
+}
+
+.form-info input{
+  margin-top: 10px;
+  margin-bottom: 2em;
+  text-align: center;
+  width:40%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.form ul{
+  margin-left: -1.75em
+}
+
+.form-info {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+  text-align: center;
+  width: 50%;
+}
+
+.option-list {
+  display: inline-block;
+}
+
+/*Submit Button*/
+
+.button{
+  border-radius: 10px;
+}
