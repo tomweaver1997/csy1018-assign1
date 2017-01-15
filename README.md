@@ -1,6 +1,7 @@
 # Thomas Weaver -CSY1018-assignment 1- Student ID:16428860
-Assignment 1: CV Website
+https://tomweaver1997.github.io/csy1018-assign1/index.html Link to the website
 
+https://github.com/tomweaver1997/csy1018-assign1 Link to the reporistory
 ##Timeframe
 If I was to estimate how long it took me to complete the website, I would that I spent roughly 50+ hours working on the site. The reason to why can’t give an exact estimate is due to the fact that there were times during the build when I would spend a large amount of time working on section in compression to others. This also includes my various research that went into features around the site as well as the times in which I have gone back to previous completed section and made alterations.
 
