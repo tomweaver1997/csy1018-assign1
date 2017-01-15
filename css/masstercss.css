@@ -42,7 +42,7 @@ background-color: #C61313;
 /*Background Image*/
 /*https://unsplash.com/search/photos/computer?photo=Hon8H9dvTBM. (access on: 11/12/2016)*/
 body {
-  background-image:  url(../../Assessment/img/backround-min.jpg);
+  background-image: url(../../htdocs/img/backround-min.jpg);
   max-width: 100%;
   height: auto;
   }
